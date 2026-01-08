@@ -106,6 +106,9 @@ nav .menu a{
 #banner .banner-img{
     max-width: 584px;
     vertical-align: middle;
+   
+    
+   
 }
 #about{
     padding-top: 130px;
@@ -172,7 +175,7 @@ nav .menu a{
     
 }
  #resume .resume-container{
-    display: flex;
+    display:flex;
     max-width: 1140px;
     width: 71%;
     margin: 113px auto 0;
